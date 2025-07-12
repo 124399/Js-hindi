@@ -1,3 +1,4 @@
 # Js-hindi
-A code repository for js \n
+A code repository for js 
+<br>
 Author - Khan Wasim 
